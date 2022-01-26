@@ -6,13 +6,13 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/MASTER-TG/PASIYA-SUB?style=flat-square&color=yellow)](https://github.com/MASTER-TG/PASIYA-SUB/stargazers)
-[![Forks](https://img.shields.io/github/forks/MASTER-TG/PASIYA-SUB?style=flat-square&color=orange)](https://github.com/MASTER-TG/PASIYA-SUB/fork)
-[![Size](https://img.shields.io/github/repo-size/MASTER-TG/PASIYA-SUB?style=flat-square&color=green)](https://github.com/MASTER-TG/PASIYA-SUB/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MASTER-TG/PASIYA-SUB)   
-[![Contributors](https://img.shields.io/github/contributors/MASTER-TG/PASIYA-SUB?style=flat-square&color=green)](https://github.com/MASTER-TG/PASIYA-SUB/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MASTER-TG/PASIYA-SUB/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/MASTER-TG/PASIYA-SUB.svg)](https://stars.medv.io/MASTER-TG/PASIYA-SUB)
+[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
+[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
+[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
+[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
 
 ## Features
@@ -32,7 +32,7 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/DeviLTitan404) before you start messing up with your edits.
+Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -46,7 +46,7 @@ Read [this](https://telegram.dog/DeviLTitan404) before you start messing up with
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/MASTER-TG/PASIYA-SUB/blob/master/info.py) for more
+* Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
 
 
 ## Deploy
@@ -66,7 +66,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/MASTER-TG/PASIYA-SUB
+git clone https://github.com/EvamariaTG/evamaria
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -127,10 +127,10 @@ Fork the repo and edit as per your needs.
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/MASTER-TG/PASIYA-SUB/blob/master/LICENSE)
+Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Inspiration
-This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/DeviLTitan404)
+This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
 
 [![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
